@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*/__pycache__/
+
+
+# Virtualenv
+venv/
+.venv/
+.env
+*/.env
+.env.*.local
+pgdata/
+
+
+# IDE
+*.code-workspace
+todo.md
